@@ -1,0 +1,14 @@
+baseURL = 'https://hatem12345th.github.io/'
+languageCode = 'en-us'
+title = 'CTF Writeups by Hatem'
+theme = 'PaperMod'
+
+[params]
+  ShowCodeCopyButtons = true
+  ShowReadingTime = true
+  ShowToc = true
+  ShowBreadCrumbs = true
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/hatem12345th"
