@@ -1,4 +1,4 @@
-baseURL = 'https://hatem12345th.github.io/'
+baseURL = 'https://hatem12345th.github.io/ctf-writeups/'
 languageCode = 'en-us'
 title = 'CTF Writeups by Hatem'
 theme = 'PaperMod'
