@@ -5,6 +5,9 @@
 
 From the challenge name "Reactivity Bookstore", we can guess this is something related to React.
 
+![](photos/second-challenge-info.png)
+
+
 ![Challenge Interface](https://cdn-images-1.medium.com/max/800/1*QQV98G5zwpqw_FHccC5CZw.png)
 
 When we examine the response headers, we see:

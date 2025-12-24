@@ -7,6 +7,8 @@ I solved 4/6 Web challenges.
 
 ## Challenge 1: MyTemplates
 
+![](photos/image.png)
+
 From the challenge name, we can guess it was SSTI (Server Side Template Injection).
 
 ![Main page](https://cdn-images-1.medium.com/max/800/1*f5mMK09RDkOweRilpPWWiw.png)
